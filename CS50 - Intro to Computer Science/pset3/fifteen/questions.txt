@@ -1,0 +1,9 @@
+questions.txt
+
+Computer Science 50
+Problem Set 3
+
+0. The framework allows a minimum of 3x3 tiles and a maximum of 9x9 tiles.
+1. The board is stored in a two dimensional array.
+2. greet()
+3. init(), draw(), move(), won()
